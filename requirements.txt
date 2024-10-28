@@ -1,0 +1,6 @@
+cloudscraper
+lxml
+beautifulsoup4
+animeflv
+dearpygui
+playsound
